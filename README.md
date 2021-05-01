@@ -1,2 +1,4 @@
 # hello-world
-just another repoisitory
+只是另一个仓库
+你好，我是一个热爱探索的的人
+我的联系方式：2380089073 @qq.com
